@@ -58,7 +58,7 @@ header h1 {
     padding: 0;
 }
 
-.task-list > li {
+.task-list>li {
     margin-bottom: 20px;
 }
 
